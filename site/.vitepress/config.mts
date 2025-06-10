@@ -23,7 +23,7 @@ export default defineConfig({
   },
   themeConfig: {
     logo: {
-      src: "logo.png",
+      src: "https://i.imgur.com/bUwYQP3.png",
       alt: "Sportter logo",
     },
     // https://vitepress.dev/reference/default-theme-config

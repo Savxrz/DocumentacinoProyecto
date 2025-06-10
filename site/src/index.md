@@ -7,7 +7,7 @@ hero:
   text: "Una red social para deportistas"
   tagline: 📝 Documentacion del pryecto
   image:
-    src: logo.png
+    src: https://i.imgur.com/bUwYQP3.png
     alt: Sportter logo
   actions:
     - theme: brand
