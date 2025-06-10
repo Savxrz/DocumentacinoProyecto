@@ -1,0 +1,18 @@
+{
+  "author": "willow <42willow@pm.me>",
+  "devDependencies": {
+    "@catppuccin/vitepress": "workspace:../",
+    "vitepress": "^1.3.4"
+  },
+  "peerDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "description": "📝 Soothing pastel theme for VitePress",
+  "license": "MIT",
+  "scripts": {
+    "build": "vitepress build",
+    "dev": "vitepress dev",
+    "preview": "vitepress preview"
+  },
+  "packageManager": "pnpm@10.9.0"
+}
