@@ -29,13 +29,11 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Docu", link: "/install" },
+      { text: "Docu", link: "/introduccion" },
     ],
     sidebar: [
       {
         items: [
-          { text: "Proyecto", link: "/install" },
-          { text: "Components", link: "/components" },
           { text: 'Introducción', link: '/introduccion' },
           { text: 'Naturaleza del Proyecto', link: '/naturaleza' },
           { text: 'Objetivos', link: '/objetivos' },

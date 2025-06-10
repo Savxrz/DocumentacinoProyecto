@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Ver documentación!
-      link: /install
+      link: /introduccion
 
     # Documentación del Proyecto
 
