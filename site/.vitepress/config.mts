@@ -36,6 +36,17 @@ export default defineConfig({
         items: [
           { text: "Proyecto", link: "/install" },
           { text: "Components", link: "/components" },
+          { text: 'Introducción', link: '/introduccion' },
+          { text: 'Naturaleza del Proyecto', link: '/naturaleza' },
+          { text: 'Objetivos', link: '/objetivos' },
+          { text: 'Recursos', link: '/recursos' },
+          { text: 'Tareas', link: '/tareas' },
+          { text: 'Diagrama Temporal', link: '/diagrama-temporal' },
+          { text: 'Conclusiones', link: '/conclusiones' },
+          { text: 'Mejoras Futuras', link: '/mejoras' },
+          { text: 'Referencias', link: '/referencias' },
+          { text: 'Esquema del Proyecto', link: '/esquema' },
+          { text: 'Web del Proyecto', link: '/web' }
         ],
       },
     ],

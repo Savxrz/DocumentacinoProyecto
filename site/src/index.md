@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Sportter"
   text: "Una red social para deportistas"
-  tagline: 📝 Documentacion del pryecto
+  tagline: 📝 Documentación del proyecto
   image:
     src: https://i.imgur.com/bUwYQP3.png
     alt: Sportter logo
